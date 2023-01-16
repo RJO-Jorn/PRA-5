@@ -9,7 +9,7 @@ totalMatches = 0
 os.system('cls') #Deze regel nog invullen! Hoe maak je het scherm leeg?
 print("Working...")
 
-data = pd.read_excel("../files/Basketbal_Talent League_tussenstand.xlsx")
+data = pd.read_excel("test.xlsx")
 data["datum"] = pd.to_datetime(data["datum"], format="%d/%m/%Y")
 data = data.sort_values("datum")
 
