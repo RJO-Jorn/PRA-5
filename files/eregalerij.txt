@@ -1,0 +1,88 @@
+     datum                       team1                       team2 uitslag scheidsrechter
+26-12-2022              Boston Celtics                  BC Blokker 191-109       Kuijpers
+27-12-2022       Golden State Warriors                Someren CSKA    3-71       van Daal
+27-12-2022          Los Angeles Lakers       Golden State Warriors   193-7        Janssen
+28-12-2022                 CSKA Moskou                   Haaren BC 145-155       van Daal
+28-12-2022       Olympiakos Piraeus BC       Golden State Warriors   29-18  van der Flaas
+28-12-2022               Ammerzoden BC                   Haaren BC 156-156      Rademaker
+29-12-2022                   NY Knicks              Boston Celtics  180-99     Langevoort
+29-12-2022            Panathinaikos BC               Ammerzoden BC   12-52        Hulskes
+29-12-2022          Dinamo Eygelshoven                 CSKA Moskou  18-200       de Graaf
+29-12-2022                 CSKA Moskou              Boston Celtics    84-7 van der Strigt
+30-12-2022 Maccabi Electra Tel Aviv BC       Golden State Warriors  166-32      Rademaker
+30-12-2022             Milwaukee Bucks       Dinamo Wehe-den Hoorn    7-30        Janssen
+30-12-2022               Ammerzoden BC             Milwaukee Bucks  117-94        Janssen
+31-12-2022            Nijeberkoop CSKA                 CSKA Moskou   196-1       van Daal
+31-12-2022                  Heteren BC              Noordhorn CSKA   85-83       de Graaf
+01-01-2023       Olympiakos Piraeus BC            Panathinaikos BC  15-128     Langevoort
+01-01-2023                   Haaren BC                Veeningen BC 175-131     Langevoort
+01-01-2023       Dinamo Wehe-den Hoorn              Noordhorn CSKA 175-182       de Graaf
+01-01-2023             Milwaukee Bucks            Nijeberkoop CSKA  178-25      Rademaker
+02-01-2023                   Haaren BC Maccabi Electra Tel Aviv BC   2-199       Kuijpers
+03-01-2023                  Heteren BC              Barendrecht BC 194-155 van der Strigt
+03-01-2023          Dinamo Eygelshoven            Nijeberkoop CSKA   83-90        Janssen
+03-01-2023            Panathinaikos BC                Veeningen BC  66-129        Janssen
+03-01-2023              Noordhorn CSKA          Los Angeles Lakers  104-27     Langevoort
+03-01-2023                   Haaren BC                 CSKA Moskou   9-122 van der Strigt
+04-01-2023            Panathinaikos BC                Someren CSKA 180-106        Hulskes
+04-01-2023              Barendrecht BC          Dinamo Eygelshoven   9-181       van Daal
+05-01-2023                  Heteren BC                Veeningen BC  62-155       van Daal
+05-01-2023              Barendrecht BC              Boston Celtics    59-8        Janssen
+05-01-2023       Olympiakos Piraeus BC                 CSKA Moskou  193-41        Janssen
+05-01-2023              Noordhorn CSKA                  BC Blokker    4-83        Hulskes
+05-01-2023       Golden State Warriors                Veeningen BC 200-107     Langevoort
+05-01-2023              Boston Celtics            Nijeberkoop CSKA  73-103       de Graaf
+06-01-2023          Los Angeles Lakers                 CSKA Moskou 112-104       van Daal
+06-01-2023 Maccabi Electra Tel Aviv BC            Nijeberkoop CSKA    23-0       Kuijpers
+06-01-2023                  BC Blokker                Someren CSKA  72-118       de Graaf
+06-01-2023       Olympiakos Piraeus BC              Noordhorn CSKA   174-3       van Daal
+06-01-2023            Panathinaikos BC       Dinamo Wehe-den Hoorn   24-95 van der Strigt
+07-01-2023                   Haaren BC       Olympiakos Piraeus BC  136-53       Kuijpers
+07-01-2023                  BC Blokker       Golden State Warriors  42-182 van der Strigt
+07-01-2023                Someren CSKA       Dinamo Wehe-den Hoorn   64-84        Janssen
+07-01-2023       Golden State Warriors       Olympiakos Piraeus BC  66-190        Hulskes
+08-01-2023                Veeningen BC          Dinamo Eygelshoven 150-182        Janssen
+08-01-2023              Noordhorn CSKA       Olympiakos Piraeus BC    18-4        Janssen
+08-01-2023                  Heteren BC                  BC Blokker   49-72        Janssen
+08-01-2023               Ammerzoden BC                  Heteren BC 182-108      Rademaker
+08-01-2023                  BC Blokker Maccabi Electra Tel Aviv BC  162-81        Janssen
+09-01-2023          Los Angeles Lakers       Olympiakos Piraeus BC  56-145  van der Flaas
+09-01-2023            Panathinaikos BC              Boston Celtics 160-110       van Daal
+09-01-2023       Dinamo Wehe-den Hoorn                Veeningen BC    86-2       de Graaf
+09-01-2023                 CSKA Moskou Maccabi Electra Tel Aviv BC    1-16     Langevoort
+09-01-2023                  BC Blokker          Dinamo Eygelshoven  182-15 van der Strigt
+09-01-2023            Nijeberkoop CSKA Maccabi Electra Tel Aviv BC   16-22        Janssen
+10-01-2023                 CSKA Moskou              Barendrecht BC 155-141      Rademaker
+10-01-2023             Milwaukee Bucks                  BC Blokker   3-195        Janssen
+11-01-2023                 CSKA Moskou          Dinamo Eygelshoven 181-143        Janssen
+11-01-2023                  BC Blokker                Veeningen BC 160-164        Hulskes
+11-01-2023 Maccabi Electra Tel Aviv BC       Olympiakos Piraeus BC  56-105        Janssen
+12-01-2023 Maccabi Electra Tel Aviv BC                   NY Knicks 163-129        Hulskes
+12-01-2023 Maccabi Electra Tel Aviv BC            Panathinaikos BC 178-196 van der Strigt
+12-01-2023              Boston Celtics          Los Angeles Lakers  17-147       de Graaf
+12-01-2023            Nijeberkoop CSKA                  Heteren BC 107-155      Rademaker
+13-01-2023          Los Angeles Lakers            Nijeberkoop CSKA 124-152        Janssen
+13-01-2023                  Heteren BC                 CSKA Moskou 150-153        Hulskes
+13-01-2023          Los Angeles Lakers       Dinamo Wehe-den Hoorn   45-80     Langevoort
+14-01-2023              Boston Celtics Maccabi Electra Tel Aviv BC  197-14  van der Flaas
+14-01-2023                Someren CSKA                  Heteren BC 193-148        Janssen
+15-01-2023               Ammerzoden BC                Someren CSKA  84-141       van Daal
+15-01-2023            Panathinaikos BC                  BC Blokker  46-146        Janssen
+15-01-2023                  BC Blokker             Milwaukee Bucks   40-94        Janssen
+16-01-2023                  BC Blokker              Boston Celtics  24-175       Kuijpers
+17-01-2023                   NY Knicks            Panathinaikos BC    5-84      Rademaker
+17-01-2023            Panathinaikos BC                  Heteren BC  113-29  van der Flaas
+17-01-2023                 CSKA Moskou                Veeningen BC    4-47      Rademaker
+18-01-2023                   NY Knicks             Milwaukee Bucks  20-198       van Daal
+18-01-2023              Noordhorn CSKA                  Heteren BC   158-3       Kuijpers
+18-01-2023               Ammerzoden BC              Boston Celtics    29-5 van der Strigt
+18-01-2023 Maccabi Electra Tel Aviv BC       Dinamo Wehe-den Hoorn  79-126     Langevoort
+18-01-2023          Dinamo Eygelshoven       Golden State Warriors   148-9        Hulskes
+19-01-2023                  Heteren BC             Milwaukee Bucks  164-45       van Daal
+19-01-2023                  BC Blokker               Ammerzoden BC  163-74     Langevoort
+20-01-2023              Noordhorn CSKA              Boston Celtics  78-192  van der Flaas
+20-01-2023                 CSKA Moskou                Someren CSKA  53-130  van der Flaas
+21-01-2023            Nijeberkoop CSKA                   NY Knicks   13-31  van der Flaas
+21-01-2023              Barendrecht BC            Nijeberkoop CSKA  197-89     Langevoort
+21-01-2023          Dinamo Eygelshoven                  Heteren BC 191-186  van der Flaas
+21-01-2023                Someren CSKA       Olympiakos Piraeus BC  134-26       Kuijpers

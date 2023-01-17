@@ -1,0 +1,6 @@
+     datum                 team1                       team2 uitslag scheidsrechter  overtredingen
+28-12-2022 Golden State Warriors Maccabi Electra Tel Aviv BC  164-95  van der Flaas             96
+07-01-2023        Boston Celtics                   NY Knicks  51-138        Janssen             96
+10-01-2023    Los Angeles Lakers                Someren CSKA 119-121     Langevoort             95
+19-01-2023         Ammerzoden BC                   NY Knicks  50-130       Kuijpers             94
+02-01-2023    Dinamo Eygelshoven            Panathinaikos BC  27-156       Kuijpers             86
