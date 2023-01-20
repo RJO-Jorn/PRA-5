@@ -83,13 +83,77 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+  Author's custom styles
    ========================================================================== */
+  @font-face {
+    font-family: 'JetBrains-italic';
+    src: url('../fontsJetBrainsMono-Italic.eot');
+    src: url('../fontsJetBrainsMono-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fontsJetBrainsMono-Italic.woff2') format('woff2'),
+        url('../fontsJetBrainsMono-Italic.woff') format('woff'),
+        url('../fontsJetBrainsMono-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrains-regular';
+    src: url('../fontsJetBrainsMonoNL-Regular.eot');
+    src: url('../fontsJetBrainsMonoNL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fontsJetBrainsMonoNL-Regular.woff2') format('woff2'),
+        url('../fontsJetBrainsMonoNL-Regular.woff') format('woff'),
+        url('../fontsJetBrainsMonoNL-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrains-bold';
+    src: url('../fontsJetBrainsMono-Bold.eot');
+    src: url('../fontsJetBrainsMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fontsJetBrainsMono-Bold.woff2') format('woff2'),
+        url('../fontsJetBrainsMono-Bold.woff') format('woff'),
+        url('../fontsJetBrainsMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+.mono-regular{
+    font-family: 'JetBrains-regular';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+.mono-italic{
+    font-family: 'JetBrains-italic';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+.mono-bold{
+    font-family: 'JetBrains-bold';
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
 
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 0; 
 }
 
 html{
@@ -102,9 +166,81 @@ html{
     /* ? */
 
 }
+.left-box{
+  width: 18%;
+  height: 18%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border: #000 1px solid;
+  border-radius: 12px;
+  margin-left: 12px;
+  margin-top: 0px;
+}
 
+.box-container{
+  margin-left: 12px;
+  margin-top: 50px;
+  width: 18%;
+  height: 18%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border: #000 1px solid;
+  border-radius: 12px;
+
+}
+.galery-container{
+  border: 1px solid #000;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  height: 500px;
+  width: 700px;
+  margin: 0 auto;
+  margin-right: 250px;
+  margin-top: -700px;
+  text-align: center;
+}
+
+.box-galery{
+  padding-top: 25px;
+  display: flex;
+  flex-direction: column;
+  
+  width: 100%;
+}
+
+.galery-bar{
+  background-color: #222;
+  height: 30px;
+  border-top:2px solid #000;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+.galery-icon{
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 12px;
+  padding-right: 12px;
+  align-items: center;
+}
 header{
     margin: 1rem 0;
+}
+i{
+  color: white;
+  font-size: x-large;
+  transition: color 0.5s ease;
+}
+i:hover{
+  color: darkgrey;
+  transition: color 0.5s ease;
 }
 
 h1{
@@ -116,6 +252,13 @@ h1{
     /* Font: "Faster One" */
 }
 
+#str-1.active{
+  visibility: hidden;
+}
+#str-2{
+  display: flex;
+  flex-direction: column;
+}
 .subtitle{
     margin-top: 0;
 
@@ -125,6 +268,8 @@ h1{
 
 .row{
     margin: 1.5rem 0;
+    height: 600px;
+    width: auto;
     
     /* Display instellen zodat de inhoud naast elkaar komt (met daar wat space tussen) */
 }
@@ -142,15 +287,15 @@ h1{
 }
 
 h2{
-    /* Font: Roboto, gewicht 500, grootte 1rem */
+    Font: Roboto, gewicht 500, grootte 1rem
 }
 
 p{
-    /* Font: Roboto */
+    Font: Roboto 
 }
 
 p.number{
-    /* Font: Roboto Mono, gewicht 500, grootte 2rem */
+    Font: Roboto Mono, gewicht 500, grootte 2rem 
 }
 
 pre{
@@ -160,10 +305,8 @@ pre{
 
 
 footer{
-    margin: 1.5rem 0;
-    /* Font-size iets kleiner dan standaard, kleur grijs */
+    margin: 100px;
 }
-
 
 
 
